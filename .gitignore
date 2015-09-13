@@ -7,3 +7,5 @@ __pycache__/
 *.log
 
 hospital/db.sqlite3
+
+hospital/static/admin/
